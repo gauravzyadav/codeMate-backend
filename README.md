@@ -109,12 +109,12 @@ npm install
 
 Create a `.env` file in the root directory:
 ```env
+# .env.example
 PORT=3000
-DB_CONNECTION_SECRET=mongodb+srv://username:password@cluster.mongodb.net/codemate
-JWT_SECRET=your_super_secret_jwt_key_here
-CLOUDINARY_CLOUD_NAME=your_cloud_name
-CLOUDINARY_API_KEY=your_api_key
-CLOUDINARY_API_SECRET=your_api_secret
+DB_CONNECTION_SECRET=<your_mongodb_connection_string>
+JWT_SECRET=<your_jwt_secret>
+CLOUDINARY_CLOUD_NAME=<your_cloudinary_cloud_name>
+CLOUDINARY_API_KEY=<your_cloudinary_api_key>
 NODE_ENV=development
 ```
 
