@@ -96,7 +96,7 @@ devTinder/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/devTinder.git
+git clone https://github.com/gauravzyadav/codeMate-backend.git
 cd devTinder
 ```
 
@@ -135,7 +135,6 @@ The API will be running at `http://localhost:3000`
 
 ### Base URL
 - **Development:** `http://localhost:3000`
-- **Production:** `https://devtinder-backend-yhxb.onrender.com`
 
 ---
 
@@ -420,18 +419,6 @@ Set these in your hosting platform:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
----
-
-## 👨‍💻 Author
-
-**Gaurav Yadav**
-- LinkedIn: [gaurav-yadavvv](https://www.linkedin.com/in/gaurav-yadavvv/)
-
----
-
-## 📄 License
-
-ISC License
 
 ---
 
