@@ -13,7 +13,7 @@ This is the backend service for CodeMate, providing RESTful APIs for authenticat
 
 ## 🔗 Related Repository
 
-**Frontend Repository:** [CodeMate Web](https://github.com/yourusername/devTinder-web) – React frontend application
+**Frontend Repository:** [CodeMate Web](https://github.com/gauravzyadav/codeMate-web) – React frontend application
 
 ---
 
